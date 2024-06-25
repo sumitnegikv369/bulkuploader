@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitnegikv369/bulkuploader.git"
+  },
+  "author": "Sumit Negi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitnegikv369/bulkuploader/issues"
+  },
+  "homepage": "https://github.com/sumitnegikv369/bulkuploader#readme"
+}
